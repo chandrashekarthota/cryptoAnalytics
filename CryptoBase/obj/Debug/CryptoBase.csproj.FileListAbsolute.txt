@@ -1,0 +1,10 @@
+C:\Users\RJ\documents\visual studio 2015\Projects\CryptoCurrencies\CryptoBase\bin\Debug\CryptoBase.dll
+C:\Users\RJ\documents\visual studio 2015\Projects\CryptoCurrencies\CryptoBase\bin\Debug\CryptoBase.pdb
+C:\Users\RJ\documents\visual studio 2015\Projects\CryptoCurrencies\CryptoBase\bin\Debug\CryptoModels.dll
+C:\Users\RJ\documents\visual studio 2015\Projects\CryptoCurrencies\CryptoBase\bin\Debug\HtmlAgilityPack.dll
+C:\Users\RJ\documents\visual studio 2015\Projects\CryptoCurrencies\CryptoBase\bin\Debug\CryptoModels.pdb
+C:\Users\RJ\documents\visual studio 2015\Projects\CryptoCurrencies\CryptoBase\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\RJ\documents\visual studio 2015\Projects\CryptoCurrencies\CryptoBase\bin\Debug\HtmlAgilityPack.xml
+C:\Users\RJ\documents\visual studio 2015\Projects\CryptoCurrencies\CryptoBase\obj\Debug\CryptoBase.csprojResolveAssemblyReference.cache
+C:\Users\RJ\documents\visual studio 2015\Projects\CryptoCurrencies\CryptoBase\obj\Debug\CryptoBase.dll
+C:\Users\RJ\documents\visual studio 2015\Projects\CryptoCurrencies\CryptoBase\obj\Debug\CryptoBase.pdb

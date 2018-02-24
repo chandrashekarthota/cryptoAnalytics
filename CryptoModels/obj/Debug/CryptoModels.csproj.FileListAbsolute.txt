@@ -1,0 +1,4 @@
+C:\Users\RJ\documents\visual studio 2015\Projects\CryptoCurrencies\CryptoModels\bin\Debug\CryptoModels.dll
+C:\Users\RJ\documents\visual studio 2015\Projects\CryptoCurrencies\CryptoModels\bin\Debug\CryptoModels.pdb
+C:\Users\RJ\documents\visual studio 2015\Projects\CryptoCurrencies\CryptoModels\obj\Debug\CryptoModels.dll
+C:\Users\RJ\documents\visual studio 2015\Projects\CryptoCurrencies\CryptoModels\obj\Debug\CryptoModels.pdb

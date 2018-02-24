@@ -1,0 +1,5 @@
+C:\Users\RJ\documents\visual studio 2015\Projects\CryptoCurrencies\CryptoStratagies\bin\Debug\CryptoStratagies.dll
+C:\Users\RJ\documents\visual studio 2015\Projects\CryptoCurrencies\CryptoStratagies\bin\Debug\CryptoStratagies.pdb
+C:\Users\RJ\documents\visual studio 2015\Projects\CryptoCurrencies\CryptoStratagies\obj\Debug\CryptoStratagies.csprojResolveAssemblyReference.cache
+C:\Users\RJ\documents\visual studio 2015\Projects\CryptoCurrencies\CryptoStratagies\obj\Debug\CryptoStratagies.dll
+C:\Users\RJ\documents\visual studio 2015\Projects\CryptoCurrencies\CryptoStratagies\obj\Debug\CryptoStratagies.pdb
